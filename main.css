@@ -9,6 +9,11 @@ body{
 
     font-family: 'Lucida Grande', sans-serif;
     color: #666666;
+    line-height: 1.8;
+}
+
+.content-header{
+    color: #F07C17;
 }
 
 .list-box{
@@ -18,24 +23,24 @@ body{
     border-width: 1px;
     border-color: #CCCCCC;
     padding: 1em;
-    max-width: 375px;
+    max-width: 325px;
     margin-top: 20px;
 }
 
 .content-details{
     display: block;
     padding: 1em;
-
-
+    
 
 }
+
 .main-image{
-    max-width: 375px;
-    max-height: 375px;
+    max-width: 325px;
+    max-height: 325px;
 }
 
 .container{
-    margin-left: 20px;
-    padding: 2em;
+    margin-left: 5px;
+    margin-top: 20px;
+    padding: 1em;
 }
-
